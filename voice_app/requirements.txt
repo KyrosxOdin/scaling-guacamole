@@ -1,0 +1,10 @@
+numpy
+torch
+pyannote.audio
+resemblyzer
+transformers
+sounddevice
+scipy
+webrtcvad
+coqui-tts
+ffmpeg-python
